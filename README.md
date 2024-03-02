@@ -1,0 +1,6 @@
+# HONDT
+El presente trabajo tiene su origen en el desarrollo de una aplicación informática que permite asignar escaños a las diferentes candidaturas de acuerdo con el método d’Hondt previsto en la LOREG  en nuestro país.
+Usando esta aplicación, resulta posible hacer pronósticos sobre los resultados de elecciones tras realizar conjeturas sobre participación, partidos que se presentan, votos a candidaturas, etc. en base a la intuición del analista, los análisis de las elecciones anteriores y los resultados de investigaciones empíricas mediante entrevistas y encuestas.
+La proximidad temporal del desarrollo de la aplicación con las elecciones del 23J, que hicieron que muchas organizaciones , medios  y partidos emitieran opiniones acerca de los motivos que llevaron a la derrota - global - de la derecha cuando bastantes encuestas la daban por ganadora, condujo al autor a profundizar algo más en un tema del que tenía escasos conocimientos. Por este motivo, el contenido de este repositorio es doble:
+1. Aplicación que permite calcular la asignación de escaños a candidaturas dadas una condiciones de voto y sus resultados.
+2. Un documento que, usando la aplicación, analiza los resultados de las últimas eleciones en España.
